@@ -6,3 +6,5 @@ https://portals.wap.sh/
 
 https://leno.net/wap/
 
+
+http://wapall.info
